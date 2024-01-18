@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xuixee
-- 👀 I’m interested in ... writing a book on AI projects & starting an app service company
+- 👀 I’m interested in ... writing a book on AI projects & starting an app service company, writing a book called something like "We Kept Our Day Jobs" all about minor business ideas! 
 - 🌱 I’m currently learning ... 🫶
 - 💞️ I’m looking to collaborate on ... app service company, app game company, AI book pamphlet
 - 📫 How to reach me ... email 
